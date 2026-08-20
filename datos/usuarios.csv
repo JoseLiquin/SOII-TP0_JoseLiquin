@@ -1,0 +1,13 @@
+ID,Nombre,Rol,Departamento,Activo
+101,Carlos Perez,Administrador,Sistemas,true
+102,Ana Gomez,Analista,Finanzas,true
+103,Martin Rodriguez,Desarrollador,Sistemas,true
+104,Lucia Fernandez,Contadora,Finanzas,false
+105,Esteban Diaz,DevOps,Sistemas,true
+106,Sofia Martinez,Recursos Humanos,RRHH,true
+107,Javier Alvarez,Soporte,Sistemas,false
+108,Valeria Lopez,Auditora,Finanzas,true
+109,Mariano Romero,DBA,Sistemas,true
+110,Camila Torres,Disenadora,Marketing,true
+111,Gonzalo Benitez,Seguridad,Sistemas,true
+112,Florencia Vega,Marketing Manager,Marketing,false

@@ -1,0 +1,18 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary test outputs
+soluciones/entorno/
+soluciones/*.log
+soluciones/*.txt
+soluciones/*.sh
+!soluciones/.gitkeep

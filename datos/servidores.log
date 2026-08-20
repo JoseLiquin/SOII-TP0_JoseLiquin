@@ -1,0 +1,20 @@
+2026-08-20T08:00:01 192.168.1.10 INFO WebServer: Servicio iniciado correctamente
+2026-08-20T08:05:12 192.168.1.25 WARN Database: Tiempo de respuesta elevado (120ms)
+2026-08-20T08:10:44 192.168.1.50 ERROR AuthServer: Fallo en intento de autenticacion de usuario admin
+2026-08-20T08:12:03 192.168.1.10 INFO WebServer: Peticion GET /api/status 200 OK
+2026-08-20T08:15:30 192.168.1.99 ERROR StorageNode: Disco secundario no responde
+2026-08-20T08:20:18 192.168.1.50 ERROR AuthServer: Cuenta bloqueada por multiples intentos fallidos
+2026-08-20T08:22:55 192.168.1.10 INFO WebServer: Peticion POST /api/login 200 OK
+2026-08-20T08:30:10 192.168.1.75 WARN LoadBalancer: Carga superior al 80% en nodo 1
+2026-08-20T08:35:40 192.168.1.25 INFO Database: Backup incremental completado
+2026-08-20T08:40:02 192.168.1.10 INFO WebServer: Peticion GET /index.html 200 OK
+2026-08-20T08:45:19 192.168.1.120 ERROR DNSServer: No se pudo resolver host externo
+2026-08-20T08:50:22 192.168.1.99 ERROR StorageNode: Reintentando montaje de particion /data
+2026-08-20T08:55:00 192.168.1.10 INFO WebServer: Peticion GET /api/users 200 OK
+2026-08-20T09:00:15 192.168.1.50 INFO AuthServer: Token de sesion generado exitosamente
+2026-08-20T09:05:40 192.168.1.25 WARN Database: Conexiones activas alcanzaron el 90%
+2026-08-20T09:10:11 192.168.1.10 ERROR WebServer: Error 500 en endpoint /api/reportes
+2026-08-20T09:15:29 192.168.1.75 INFO LoadBalancer: Nodo 2 reincorporado al grupo
+2026-08-20T09:20:00 192.168.1.120 INFO DNSServer: Cache de DNS purgada
+2026-08-20T09:25:33 192.168.1.99 INFO StorageNode: Particion /data montada en modo solo lectura
+2026-08-20T09:30:00 192.168.1.10 INFO WebServer: Peticion GET /healthcheck 200 OK
