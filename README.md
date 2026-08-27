@@ -1,7 +1,7 @@
 # Trabajo Práctico N° 0: Introducción a Linux, Shell y Git
 
-> **Universidad Católica de Santiago del Estero (UCSE)**  
-> **Departamento Académico San Salvador (DASS)**  
+> **Facultad de Ingeniería - Universidad Nacional de Jujuy (FI-UNJu)**  
+> **Facultad de Ingeniería**  
 > **Cátedra:** Sistemas Operativos II — Ciclo Lectivo 2026  
 > **Equipo Docente:** Ing. María Fernanda Vázquez (Profesora Titular) | Ing. Fabio Damián Argañaraz Azua (Jefe de Trabajos Prácticos)  
 > **Modalidad:** Individual / Autoevaluativo  
@@ -52,13 +52,13 @@ flowchart LR
 Abra su terminal **Git Bash** y configure su nombre y correo institucional:
 ```bash
 git config --global user.name "Su Nombre y Apellido"
-git config --global user.email "su_correo@ucse.edu.ar"
+git config --global user.email "su_correo@fi.unju.edu.ar"
 ```
 
 ### Paso 2: Clonar el repositorio
 Clone el repositorio privado generado por GitHub Classroom en su computadora:
 ```bash
-git clone https://github.com/UCSE-SO2-2026/tp-0-tu_usuario.git
+git clone https://github.com/UNJu-Sistemas-Operativos-II/tp-0-tu_usuario.git
 cd tp-0-tu_usuario
 ```
 

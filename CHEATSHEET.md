@@ -155,7 +155,7 @@ chmod +x soluciones/generar_reporte.sh
 
 ```bash
 git config --global user.name "Su Nombre y Apellido"
-git config --global user.email "su_correo@ucse.edu.ar"
+git config --global user.email "su_correo@fi.unju.edu.ar"
 git config --global core.autocrlf input
 ```
 
